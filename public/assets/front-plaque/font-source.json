@@ -1,0 +1,9 @@
+{
+  "family": "LXGW WenKai Regular",
+  "source": "https://github.com/lxgw/LxgwWenKai",
+  "font_sha256": "39ad71264b588165b469e35e6afb162a378dacd1f95348160240ba9038ac3009",
+  "fonttools": "4.65.0",
+  "license": "OFL-1.1",
+  "glyphs": "佛光真容禪寺",
+  "note": "Six outline glyphs used to form mesh lettering; a contemporary font approximation, not a tracing of the historical calligraphy."
+}

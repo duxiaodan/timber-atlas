@@ -1,0 +1,31 @@
+/* Loaded with the HTML, before the model bundle or application stylesheet. */
+body{margin:0}
+#boot{position:fixed;inset:0;z-index:10000;display:grid;place-items:center;background:#182526;color:#dcc69b;font-family:system-ui,sans-serif}
+#boot .boot-card{width:min(360px,calc(100vw - 48px));text-align:center}
+#boot img{display:block;margin:0 auto 24px}
+#boot h1{font:400 clamp(23px,5vw,32px) Georgia,"Songti SC",serif;letter-spacing:3px;margin:0 0 22px}
+#boot p{font-size:14px;line-height:1.7;margin:0;color:#b8c1b3}
+#boot progress{display:block;width:100%;height:6px;appearance:none;border:0;border-radius:4px;overflow:hidden;background:#34443b;color:#dcb774;margin:24px 0 12px}
+#boot progress::-webkit-progress-bar{background:#34443b;border-radius:4px}
+#boot progress::-webkit-progress-value{background:#dcb774;border-radius:4px;transition:none}
+#boot progress::-moz-progress-bar{background:#dcb774;border-radius:4px}
+#boot progress:indeterminate{background:linear-gradient(90deg,#34443b 25%,#dcb774 50%,#34443b 75%);background-size:200% 100%;animation:boot-loading 1.8s linear infinite}
+#boot progress:indeterminate::-webkit-progress-bar{background:transparent}
+#boot #boot-count{font-size:12px;color:#92a296}
+#boot button{margin:22px auto 0;padding:9px 22px;border:1px solid #dcb774;border-radius:4px;background:transparent;color:#dcc69b;font:inherit;cursor:pointer}
+#boot [hidden]{display:none}
+@keyframes boot-loading{to{background-position:-200% 0}}
+@media(prefers-reduced-motion:reduce){#boot progress:indeterminate{animation:none}#boot progress::-webkit-progress-value{transition:none}}
+html[lang=en] #boot h1{letter-spacing:normal;font-size:clamp(23px,5vw,30px)}
+html #boot h1[data-i18n-preserve]{font-size:clamp(20px,4vw,28px);letter-spacing:.3px}
+
+.boot-languages{display:flex;justify-content:center;gap:8px;margin:16px 0}
+.boot-languages button{border:1px solid #989580;background:transparent;color:inherit;border-radius:4px;padding:5px 12px;cursor:pointer}
+.boot-languages button[aria-pressed=true]{background:#3b5145;color:#fff}
+#boot #boot-value{font-size:24px;font-variant-numeric:tabular-nums;margin:8px 0}
+#boot #boot-detail,#boot #boot-completed{font-size:13px;min-height:18px;color:#b8c1b3}
+#boot-status{min-height:44px}#boot-error{text-align:left;font-size:13px}#boot-error pre{white-space:pre-wrap;overflow-wrap:anywhere;max-height:120px;overflow:auto}
+.boot-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+@media(prefers-reduced-motion:reduce){#boot-progress{animation:none}}
+
+#boot .boot-languages button{margin:0;padding:5px 12px}#boot .boot-languages button[aria-pressed=true]{background:#3b5145;color:#fff}

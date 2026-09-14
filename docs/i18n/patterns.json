@@ -1,0 +1,174 @@
+[
+  {
+    "zh": "当前显示 {0} 件",
+    "en": "Showing {0} components"
+  },
+  {
+    "zh": "{0} 件 · {1} 组",
+    "en": "{0} components · {1} assemblies"
+  },
+  {
+    "zh": "{0} 件",
+    "en": "{0} components"
+  },
+  {
+    "zh": "第 {0} / 4 步 · {1}",
+    "en": "Step {0} / 4 · {1}"
+  },
+  {
+    "zh": "你已复位 {0} 件构件，可以自由观察它们的连接。",
+    "en": "You have restored {0} components. Explore their connections freely."
+  },
+  {
+    "zh": "单件 · {0}",
+    "en": "Component · {0}"
+  },
+  {
+    "zh": "独立构件 · {0}",
+    "en": "Isolated component · {0}"
+  },
+  {
+    "zh": "{0}已安装。",
+    "en": "{0} installed."
+  },
+  {
+    "zh": "构件依赖成环：{0}",
+    "en": "Cyclic component dependencies: {0}"
+  },
+  {
+    "zh": "固定显示{0}",
+    "en": "Always show {0}"
+  },
+  {
+    "zh": "隐藏{0}",
+    "en": "Hide {0}"
+  },
+  {
+    "zh": "显示{0}",
+    "en": "Show {0}"
+  },
+  {
+    "zh": "第{0}缝中央梁架",
+    "en": "Central transverse frame {0}"
+  },
+  {
+    "zh": "梁上十字斗栱 {0}缝",
+    "en": "Cruciform bracket set on beam · Frame {0}"
+  },
+  {
+    "zh": "第{0}缝",
+    "en": "Frame {0}"
+  },
+  {
+    "zh": "前檐第{0}间板门",
+    "en": "Front-elevation panel doors · Bay {0}"
+  },
+  {
+    "zh": "外檐转角斗拱 {0}",
+    "en": "Outer corner bracket set {0}"
+  },
+  {
+    "zh": "外檐柱头斗拱 {0}",
+    "en": "Outer column-head bracket set {0}"
+  },
+  {
+    "zh": "外檐补间斗拱 {0}",
+    "en": "Outer intercolumnar bracket set {0}"
+  },
+  {
+    "zh": "内槽山面中柱斗拱 {0}",
+    "en": "Inner end-elevation central-column bracket set {0}"
+  },
+  {
+    "zh": "内槽转角斗拱 {0}",
+    "en": "Inner corner bracket set {0}"
+  },
+  {
+    "zh": "内槽柱头斗拱 {0}",
+    "en": "Inner column-head bracket set {0}"
+  },
+  {
+    "zh": "内槽补间斗拱 {0}",
+    "en": "Inner intercolumnar bracket set {0}"
+  },
+  {
+    "zh": "{0}柱础",
+    "en": "{0} · Stone base"
+  },
+  {
+    "zh": "内槽角柱 {0}",
+    "en": "Inner corner column {0}"
+  },
+  {
+    "zh": "内槽柱 {0}",
+    "en": "Inner column {0}"
+  },
+  {
+    "zh": "外槽角柱 {0}",
+    "en": "Outer corner column {0}"
+  },
+  {
+    "zh": "外槽柱 {0}",
+    "en": "Outer column {0}"
+  },
+  {
+    "zh": "内槽栱眼壁 {0}",
+    "en": "Inner bracket-bay infill {0}"
+  },
+  {
+    "zh": "板瓦 {0}行{1}列",
+    "en": "Pan tile · Row {0}, column {1}"
+  },
+  {
+    "zh": "筒瓦 {0}行{1}列",
+    "en": "Cover tile · Row {0}, column {1}"
+  },
+  {
+    "zh": "{0}间下部大带",
+    "en": "Bay {0} · Lower continuous infill strip"
+  },
+  {
+    "zh": "{0}间第{1}层小面",
+    "en": "Bay {0} · Small infill panel at tier {1}"
+  },
+  {
+    "zh": "低平闇素枋上斗斗耳泥 · {0}侧{1}（分布推定）",
+    "en": "Earthen infill at bearing-block ears above a lower-ceiling plain tie · {0}, side {1} (inferred distribution)"
+  },
+  {
+    "zh": "北梢间照片区域斗耳泥 · {0}侧{1}（分布推定）",
+    "en": "Earthen infill at bearing-block ears in the photographed north end-bay area · {0}, side {1} (inferred distribution)"
+  },
+  {
+    "zh": "垂脊叠瓦 {0}段{1}层",
+    "en": "Stacked hip-ridge tiles · Segment {0}, course {1}"
+  },
+  {
+    "zh": "正脊叠瓦 {0}段{1}层",
+    "en": "Stacked main-ridge tiles · Segment {0}, course {1}"
+  },
+  {
+    "zh": "西面踏道第{0}级",
+    "en": "West steps · Tread {0}"
+  },
+  {
+    "zh": "第{0}层柱头枋",
+    "en": "Column-head tie · Tier {0}"
+  },
+  {
+    "zh": "第二正向第{0}层柱头枋",
+    "en": "Column-head tie on the second orthogonal axis, tier {0}"
+  },
+  {
+    "zh": "第二正向第{0}层枋下散斗",
+    "en": "Bracket-tip bearing block below the tier {0} tie on the second orthogonal axis"
+  },
+  {
+    "zh": "第{0}材层上交互斗",
+    "en": "Crossing bearing block above tier {0}"
+  },
+  {
+    "zh": "戗脊叠瓦 {0}段{1}层",
+    "en": "Lower hip-ridge tiles, segment {0}, course {1}"
+  }
+]

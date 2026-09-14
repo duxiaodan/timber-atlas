@@ -1,0 +1,79 @@
+{
+  "parts": [
+    {
+      "partId": "ridge-pearl",
+      "version": "central-v33",
+      "placement": {
+        "id": "ridge-pearl",
+        "version": "central-v33",
+        "size": [
+          1.6240597439294913,
+          2.66,
+          0.665752091383508
+        ],
+        "position": [
+          0,
+          14.8755,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bottom": 13.5455,
+        "scale": 0.999999967732825
+      }
+    },
+    {
+      "partId": "ridge-finial-1",
+      "version": "chiwen-v37",
+      "placement": {
+        "id": "ridge-finial-1",
+        "version": "chiwen-v37",
+        "size": [
+          2.500448281301001,
+          3.07,
+          0.76471390002868
+        ],
+        "position": [
+          7.540000000000001,
+          14.9305,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "bottom": 13.3955,
+        "scale": 1.0000000217450173
+      }
+    },
+    {
+      "partId": "ridge-finial--1",
+      "version": "chiwen-v36",
+      "placement": {
+        "id": "ridge-finial--1",
+        "version": "chiwen-v36",
+        "size": [
+          2.5181389402550205,
+          3.07,
+          0.7838263682100891
+        ],
+        "position": [
+          -7.540000000000001,
+          14.9305,
+          0
+        ],
+        "rotation": [
+          0,
+          3.141592653589793,
+          0
+        ],
+        "bottom": 13.3955,
+        "scale": 1.0000000217450173
+      }
+    }
+  ]
+}

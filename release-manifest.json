@@ -1,0 +1,575 @@
+{
+  "files": {
+    ".env": {
+      "bytes": 25,
+      "sha256": "b09527a8e13d160b445920547afb4adc1ff5df23724ac152aedda6b2be50c2d9"
+    },
+    ".gitignore": {
+      "bytes": 120,
+      "sha256": "d799c097d808d31933c4c628e5e994f03d0864cdd7fffef1a2e483244141b7c0"
+    },
+    "CONTRIBUTING.md": {
+      "bytes": 2364,
+      "sha256": "f79f5c835d328ddcb983089a93bb09dde5156b27d51dba047ba094e73c20f28e"
+    },
+    "CONTRIBUTING.zh-CN.md": {
+      "bytes": 1929,
+      "sha256": "e7b6f870ed51b9ef72a982d74dd47b20faefbab462d11177bd3b92b77abd68e2"
+    },
+    "README.md": {
+      "bytes": 3634,
+      "sha256": "7c1b678246f2832e98b0695f1a94a8065305336ae616377c9c50373b3809c1f3"
+    },
+    "README.zh-CN.md": {
+      "bytes": 3201,
+      "sha256": "7fbd1f777f0bc21587b685fd7c029946c2770759906b87ec9e66400ed8f6ab99"
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "bytes": 2758,
+      "sha256": "2891ec809d64040e32c5868d581bd7c702a33727f5f8792a9611d40be9f1e125"
+    },
+    "assets/sculptures-finials/central-v33/ridge-pearl.glb": {
+      "bytes": 51676544,
+      "sha256": "77948e829ac251cd102c50d81e73d854909d73b4f2028f27ce203ae54aad9b51"
+    },
+    "assets/sculptures-finials/chiwen-v36/ridge-finial--1.glb": {
+      "bytes": 28750308,
+      "sha256": "fdbf4c1b3e3b69d26115a6428c36a0ea2aaa9d93d7ec95837f78b17d2b955faa"
+    },
+    "assets/sculptures-finials/chiwen-v37/ridge-finial-1.glb": {
+      "bytes": 24971004,
+      "sha256": "682dcc8312e7c41a4bd5d1b008711b6d6eacb964eb9780d8d85c1e6e4864493f"
+    },
+    "deployment/cloudflare/README.md": {
+      "bytes": 5005,
+      "sha256": "bf932d531f118e535ab75f8728b0c13cef7962e722e1f5aed0cb94e6be36cda3"
+    },
+    "deployment/cloudflare/asset-worker.mjs": {
+      "bytes": 4352,
+      "sha256": "9cb0276249aa0e149256ed2c31e65bd7bc1c1bbd99f81e721e1aa29acacf721c"
+    },
+    "deployment/cloudflare/cloudflare.test.mjs": {
+      "bytes": 6738,
+      "sha256": "8dcd04f74416905a1561b5383116e54e4c2082812e9be8487ad34e0049dea913"
+    },
+    "deployment/cloudflare/prepare.mjs": {
+      "bytes": 8458,
+      "sha256": "5624da103b772bedf434eaf2fa377b22eb8b73bc05b4d0a32fea57bf474dd18e"
+    },
+    "deployment/cloudflare/run.mjs": {
+      "bytes": 5814,
+      "sha256": "26c8a77729058daba079c067b2726c216ecf68cf962887c4a99a2804dffc706c"
+    },
+    "docs/branding.md": {
+      "bytes": 1506,
+      "sha256": "b7ad7fe2831e8e778e83e490d450c69fadfdaac2ac1c717ab6f7d58a45863bda"
+    },
+    "docs/i18n/model-text.json": {
+      "bytes": 133606,
+      "sha256": "1d79f3a5f10999904e2eedeba470fdb08312b853d15fe4f315f459bf1b6652a4"
+    },
+    "docs/i18n/names.json": {
+      "bytes": 6501,
+      "sha256": "2819a88c45bfb0c5f34804ee6c03d92cf5f0c34c15efedd6891c5709d8a8f87d"
+    },
+    "docs/i18n/patterns.json": {
+      "bytes": 4002,
+      "sha256": "efa9c7cee82016a2413dcdbc2ce4d06f6d5e39523218675b8e100d6bc8700b50"
+    },
+    "docs/i18n/terms.json": {
+      "bytes": 21181,
+      "sha256": "0c9223bd66c29d48497bc97b6695d4525c4fe061d2e6edfd0868b5b55d04a777"
+    },
+    "docs/i18n/ui.json": {
+      "bytes": 19320,
+      "sha256": "d94b51f02d2dd7ac33afe0b76f27f013b9903d98b4d7f2e44612c56f85e81dc4"
+    },
+    "docs/model-and-sources.md": {
+      "bytes": 3775,
+      "sha256": "649dce2ce99090a0d4cae09102f93464341241ac5f89fbc12af191e4601427d1"
+    },
+    "docs/model-and-sources.zh-CN.md": {
+      "bytes": 3147,
+      "sha256": "43d04522d8b46397b30a7f754470db4cd1aa81e5856082041d65bd1ac14667b2"
+    },
+    "docs/third-party/three-license.txt": {
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    "index.html": {
+      "bytes": 1845,
+      "sha256": "74bbe7feaa78b6c72eba87d749fcf15318c87b1b0b8a833fa9f99c2d84c83a47"
+    },
+    "package-lock.json": {
+      "bytes": 106874,
+      "sha256": "856a97f9da3fb70dee39c1c4524c40730cfa40b6453297df6197f2d006e24304"
+    },
+    "package.json": {
+      "bytes": 1098,
+      "sha256": "ed4bbdd4b7bdd8af942ab85ac73bf55a8e9c27cfa09e0a487bb20d018d1008ea"
+    },
+    "public/assets/front-plaque/ATTRIBUTION.md": {
+      "bytes": 2722,
+      "sha256": "bb1780959d761e3e58afdfae3af022f4e19412f52d43f27c98274d685fdbaa64"
+    },
+    "public/assets/front-plaque/font-OFL.txt": {
+      "bytes": 5171,
+      "sha256": "1a25e35da1031c6c3436fde545bb9cb5aca954e9873afe510c834b8b79bd21a0"
+    },
+    "public/assets/front-plaque/font-source.json": {
+      "bytes": 397,
+      "sha256": "91a7dd90d32979b4f46108b4c635b0fb7496188ae217b80bb47bbd46536bdb4f"
+    },
+    "public/assets/front-plaque/photo.jpg": {
+      "bytes": 797221,
+      "sha256": "524a7243cd1c6bcf4c1b24450e9a8153fb6a7220c03161945450d80678f8da4e"
+    },
+    "public/icon.svg": {
+      "bytes": 435,
+      "sha256": "4e152d1ea6df5fb98095fb0c8fd63008a8cb1d879fa3e07c289f75a9ea443224"
+    },
+    "scripts/build-bracket-joints.ts": {
+      "bytes": 26968,
+      "sha256": "78e302db360431b6007e48c68f3ec8b6d5b3825b96b682be2ba75407de33fc00"
+    },
+    "scripts/build-joints.ts": {
+      "bytes": 2031,
+      "sha256": "ac7769e64121516a89d83ec636d06c7b6e9c27c6b65d5fcb0a0375c8a4719f16"
+    },
+    "scripts/build-rafter-board-cuts.ts": {
+      "bytes": 3556,
+      "sha256": "9e46744cf7499ce639be6dbdce536681c8423562255cd95f5f7d2a2e76b98374"
+    },
+    "scripts/build-roof-joints.ts": {
+      "bytes": 7302,
+      "sha256": "283f4baee1d987e72b21fac3517f1bfc62360805f64c5233b5d239bafa9ef511"
+    },
+    "scripts/build-wall-joints.ts": {
+      "bytes": 3528,
+      "sha256": "3b76e120f80a45c640c9be7d74b9c16e131f47f338f668ccc708dbb25d6577fa"
+    },
+    "scripts/lib/assembly-paths.ts": {
+      "bytes": 1344,
+      "sha256": "ab9ac22b362797c56980da4d291dc6cbb5bbe473ff43060c078d5f672ecd9c78"
+    },
+    "scripts/lib/central-frame-joints.ts": {
+      "bytes": 4860,
+      "sha256": "762428f1e4d36e546c6cd7c30c13de81245e90811432f6b9170b9a3436228cb8"
+    },
+    "scripts/lib/directed-bearings.ts": {
+      "bytes": 4428,
+      "sha256": "facd9987a6e25f81486c2743df4d25976c8025964fdcf60d9b530ebb856807cd"
+    },
+    "scripts/lib/end-frame-joints.ts": {
+      "bytes": 7617,
+      "sha256": "44a66b0331c5938d221e33269c04ab3dc5b03dad408d9b981d864f1fe64b7454"
+    },
+    "scripts/lib/headfang-splice-joints.ts": {
+      "bytes": 3204,
+      "sha256": "21b2ba150ea252f92f5364d3654132cfc41077a5cbac2509bd45a77eca9809af"
+    },
+    "scripts/lib/hip-purlin-joints.ts": {
+      "bytes": 5453,
+      "sha256": "e80d49cba166b8c92d4ba3165ffc5b2582fcd20d276ef7432ff7922e0390e649"
+    },
+    "scripts/lib/loading-assets.ts": {
+      "bytes": 1935,
+      "sha256": "03d035318f1285e46c4d440856b9ee139f99675a4b8a2514131d966ddf4a9357"
+    },
+    "scripts/lib/ordinary-pressure-support-joints.ts": {
+      "bytes": 2303,
+      "sha256": "70a8174df5a9383eac6036df880fbfae5e8f62d891febcf7ddef4f8721f0ed28"
+    },
+    "scripts/lib/pressure-splice-joints.ts": {
+      "bytes": 3148,
+      "sha256": "adb05aa4491eebf6eb3b022812e55dbdcb2aa88b3f281110bd94db99c1dbee6d"
+    },
+    "scripts/lib/roof-bearing.ts": {
+      "bytes": 930,
+      "sha256": "daf459ed170e207cac3b530359da4978d2928c6dba276c50de3dafec85c67eb5"
+    },
+    "scripts/lib/sample-overlaps.ts": {
+      "bytes": 2584,
+      "sha256": "705bb279c735e7a23d5a0e0a78cf920b7c1d7b7f4ca09f71da33f11d87fd9fab"
+    },
+    "scripts/lib/study-contacts.ts": {
+      "bytes": 2292,
+      "sha256": "dcb498bc8eb59d1e967e62582b41c91b1598a38c4221ec36a71a35ec3b665780"
+    },
+    "scripts/serve.py": {
+      "bytes": 4784,
+      "sha256": "6bde824e4be2bf116e87f993484f734a3b46e58e9ad1a023eba684503cf56086"
+    },
+    "src/boot-progress.ts": {
+      "bytes": 5364,
+      "sha256": "8eb4ad0532999f12457752a2e074f49617b3f995d819a7452ebac3c26565bb1f"
+    },
+    "src/boot.css": {
+      "bytes": 2666,
+      "sha256": "dea5cef42ab8511442118c694997188404be4017832b93793afde2f4b169df7b"
+    },
+    "src/bootstrap.ts": {
+      "bytes": 1748,
+      "sha256": "0121d5dca47dedf0c82348a8addf956706f24e885ed497eb1c34aef4fb80d5dc"
+    },
+    "src/i18n/english.ts": {
+      "bytes": 2153,
+      "sha256": "257a80c9856f2b18be4135fa899df94315e9ef44a8cb501dcc36ee40dfe413f7"
+    },
+    "src/i18n/locale.ts": {
+      "bytes": 4010,
+      "sha256": "801ada4e81ad1a84f178202c1a575041106cbd09e33049d996b817538c18f57e"
+    },
+    "src/loading-assets.d.ts": {
+      "bytes": 123,
+      "sha256": "ae4f440bba4326b9475e6d354ffb5dc2809f3fff00479e0726f32b665727a00f"
+    },
+    "src/loading-data.ts": {
+      "bytes": 1526,
+      "sha256": "9b9d7c4d9a373728b8600d39f7452c667f4ce53d5142abd22898dc562b202ed4"
+    },
+    "src/main.ts": {
+      "bytes": 39834,
+      "sha256": "098d57a3d93559e7aa6e9fdf0dcef1db495b020440b9ceb171f527372f717f19"
+    },
+    "src/model/ang-geometry.ts": {
+      "bytes": 1160,
+      "sha256": "87d459ead8082023236b6c14aca51695341cacec3eb9daad149c66617990b5a6"
+    },
+    "src/model/bracket-joints.json": {
+      "bytes": 14981175,
+      "sha256": "20666a726160d783be964933943078c34b93d64109570747d57023d454663870"
+    },
+    "src/model/brackets.ts": {
+      "bytes": 35651,
+      "sha256": "92e6f387a9d6ee53fdfa48871810b647b7134b4432f1b5b873265930f36f5ca5"
+    },
+    "src/model/catalog.ts": {
+      "bytes": 121750,
+      "sha256": "b5bf023b6bb15172c72f8f3ebe15fdc4703ce589e52b9ed44609a9f893a4203b"
+    },
+    "src/model/ceiling-coves.ts": {
+      "bytes": 6013,
+      "sha256": "b6475123b25504a88ec3a41c0bd04ddc2f52ed7c5a8d9eefb343ea1de3144da0"
+    },
+    "src/model/ceiling-rim-overlaps.ts": {
+      "bytes": 2261,
+      "sha256": "b75433505b3cb7cde90c91b086af9da0cd96e1115b229a1d03293c7309010f3d"
+    },
+    "src/model/corner-vase.ts": {
+      "bytes": 3325,
+      "sha256": "04d34119f9de35a262fb549edb6ebe3cc05bae9334322e029504bf6fa264941a"
+    },
+    "src/model/door-motion.ts": {
+      "bytes": 1203,
+      "sha256": "6905182facf6cf158d071e6bd129bbb3b3caf60057bd5eac3701ee69bd265837"
+    },
+    "src/model/dou-fittings.json": {
+      "bytes": 1000007,
+      "sha256": "916cdd926c2c6bfe5bfb7498fb293b76fbe08ac81c7694d09b2bf2c54785d7f8"
+    },
+    "src/model/dou-installation.ts": {
+      "bytes": 6133,
+      "sha256": "df0498d5785aebb76a9bdb340a2eeb4f308e01babe2f8bfd88609d462b2c01be"
+    },
+    "src/model/dou-profile.ts": {
+      "bytes": 3908,
+      "sha256": "98d11953bb6b05f3c953a4c5414253cd5a93dba672c97979e16914ff0a4b5666"
+    },
+    "src/model/dou-profiles.json": {
+      "bytes": 382775,
+      "sha256": "6c86a28779941816f345dda0b703bafe4d3903fedf63b1295309d090e6de26f7"
+    },
+    "src/model/ear-mud.ts": {
+      "bytes": 2620,
+      "sha256": "191a3d8a388829aef36a1bb261d077be2070d17b9833f6ac8fa2774ec07fdebf"
+    },
+    "src/model/eave-dragon-frame.ts": {
+      "bytes": 260,
+      "sha256": "56828e0658eca4be4bcb3d68d67891f04bb4f1b025ef24ae5869e8dfa6fc80f2"
+    },
+    "src/model/eave-dragon.json": {
+      "bytes": 12492026,
+      "sha256": "2cccca112ec6e8e0b32f2617f0cd4693f30a2905ffec04942b26089400050bd6"
+    },
+    "src/model/finial.ts": {
+      "bytes": 12867,
+      "sha256": "15662df82e6917bdb7694ad3c8cd4c6fb38b6e101e9a77daf8e8df8e253a3c9c"
+    },
+    "src/model/front-plaque-profile.ts": {
+      "bytes": 2353,
+      "sha256": "a9af542e065ae83d84e783094ca840e0952cf74461fb97a45f0a364d7687e981"
+    },
+    "src/model/front-plaque-solid.ts": {
+      "bytes": 6774,
+      "sha256": "99d36ad38a5e0a342c62125da8e3473ee8f1302c41a98cee0f8529389b6397d4"
+    },
+    "src/model/front-plaque.ts": {
+      "bytes": 6964,
+      "sha256": "bcb846356e10736a9298360a79411efe1766df041d7f1d5dacbe5da57657b61b"
+    },
+    "src/model/geometry.ts": {
+      "bytes": 30474,
+      "sha256": "d3a1e0fe716ee30380a9892e72e309f7277ee09007bb5b3dbb487db31696ce5b"
+    },
+    "src/model/glaze.ts": {
+      "bytes": 1730,
+      "sha256": "9f2bedbef2315449fc935c6d3c3bf9ced1c17f8d316e320a96dd4cfdb345dac0"
+    },
+    "src/model/headfang-splices.ts": {
+      "bytes": 164,
+      "sha256": "cb40faf54192417cc1ce2d0e3c30317ea8861d90e9d88bb1dcd0567695ec6d78"
+    },
+    "src/model/joint-geometry.json": {
+      "bytes": 55784,
+      "sha256": "66e8c8d7294c8ee64c12f6f68c6f9ad125ccfcd676c2b6046754f4a2c7b1091a"
+    },
+    "src/model/legacy-back-arm-scopes.json": {
+      "bytes": 20015,
+      "sha256": "10a4c3d7b2f9a16835834cc1e81e9786cb49c70da07621af08ce59ae401cc14f"
+    },
+    "src/model/legacy-ceiling-scope.json": {
+      "bytes": 44581,
+      "sha256": "fa2ae3326a9dd01deb49be2eb9a057b69724eef96182ae15478211dbddf48de2"
+    },
+    "src/model/legacy-corner-scopes.json": {
+      "bytes": 25945,
+      "sha256": "48925940d3aee93eb08a9c0c6b5f8251ec8924679f86391f65b53f45c727d63a"
+    },
+    "src/model/legacy-low-ceiling-scopes.json": {
+      "bytes": 960855,
+      "sha256": "8954c1f535d24824ad7cb25287f30c5031d1b9eda3cb53acaa2c16a832ccd919"
+    },
+    "src/model/low-ceiling-levels.ts": {
+      "bytes": 628,
+      "sha256": "5732c019b51e92d89ff60ca1cc2ffb4b432222997af1abbbc882cf76391d9873"
+    },
+    "src/model/outer-infill.ts": {
+      "bytes": 2468,
+      "sha256": "bc595d26cf2b0096d3033a16c6816f3f687a1ec9c2d4bce6895841725812c739"
+    },
+    "src/model/plaque-glyphs.json": {
+      "bytes": 14192,
+      "sha256": "dce6e0f5d3b4f49c24d4474617aaa31cfe33a8543447b42518b055f8bea79292"
+    },
+    "src/model/polychrome.ts": {
+      "bytes": 1801,
+      "sha256": "aca7f9324dfd80e379f94f0a409aca0552c51cad21a11c219504339769f700c8"
+    },
+    "src/model/practice-material.ts": {
+      "bytes": 255,
+      "sha256": "c038688373eb3157b01bdddc88d95b346bd3332a30989f9100b9d7f88372e130"
+    },
+    "src/model/rafter-board-cuts.json": {
+      "bytes": 1484762,
+      "sha256": "ca9eef1c728df39e966ba5b7a49b1be06d387be51acb9b46756483080e93a327"
+    },
+    "src/model/rafter-joints.ts": {
+      "bytes": 1234,
+      "sha256": "cc101551cb62196226149bceb9f3861f1c13a589275f1ce9a79275dd266f44eb"
+    },
+    "src/model/ridge-beast.json": {
+      "bytes": 8962774,
+      "sha256": "5758a9fde72544443f471a889c49d6206d54b7fd66de5b0a0651a401f7c84e49"
+    },
+    "src/model/roof-beasts.ts": {
+      "bytes": 689,
+      "sha256": "66c4c7f9d37841914ff7cb3c5a7f2fd74ee3aa9526a162096867ae7a8b19736f"
+    },
+    "src/model/roof-boards.ts": {
+      "bytes": 2370,
+      "sha256": "c9411d3a49d2e692ce739703e027286dc320f008356661988a5783793d099f91"
+    },
+    "src/model/roof-joints.json": {
+      "bytes": 4916451,
+      "sha256": "110af34a5d4ddf60b254eedd9ac2ec9248033d3dc7e9416132c7ce361b16719e"
+    },
+    "src/model/roof-members.ts": {
+      "bytes": 1774,
+      "sha256": "ca383880a7ca26453066ea5d52273c069d181de93bdc60ba1d5c2804123adc2d"
+    },
+    "src/model/roof-ridges.ts": {
+      "bytes": 694,
+      "sha256": "0cb25b12ce397a8a0e5354ba1c54276f6c774b67756ce910c0fe7c7ece89827e"
+    },
+    "src/model/roof-sculptures-accepted.json": {
+      "bytes": 1523,
+      "sha256": "70145dc47c6372c15d8f2301c3883824fffc1100b09b92ab122634433555ab1c"
+    },
+    "src/model/roof-sculptures.ts": {
+      "bytes": 3238,
+      "sha256": "99345516932f7e400cb4f1593fbb0beb38163f4f8873d330c83c0d7e0c9f7e12"
+    },
+    "src/model/runtime-sculptures/receiving-patches.json": {
+      "bytes": 4999561,
+      "sha256": "29b4647097d65c2484f738e4c551d5a8478e4b8d5927513ef4bb183301f2badf"
+    },
+    "src/model/runtime-sculptures/ridge-finial--1.json": {
+      "bytes": 450,
+      "sha256": "31b0c65a8e48066c6e3cb18e3579ba7b12a4d6ec68e54f54ec21147f6ec7f1b2"
+    },
+    "src/model/runtime-sculptures/ridge-finial-1.json": {
+      "bytes": 448,
+      "sha256": "0058869adaffdfdd27a5be59962d75b84f4cb5425a6b31124aec326b087f1651"
+    },
+    "src/model/runtime-sculptures/ridge-pearl.json": {
+      "bytes": 483,
+      "sha256": "442effe7dd20117809499a270410b5305fe0e9a2ab7c1f2fe960670fdb27d3ef"
+    },
+    "src/model/sculpture-asset.ts": {
+      "bytes": 2803,
+      "sha256": "39e371b300e6fa8c02b51cbd0adff7b3cabadea433915109775dea79a6d2b7f2"
+    },
+    "src/model/sculpture-fit.ts": {
+      "bytes": 2882,
+      "sha256": "80acf5f9570b1f251d7c3d833da5fa4885616d39885e43c1a3871a0f93f4ecf7"
+    },
+    "src/model/sculpture-placement.ts": {
+      "bytes": 870,
+      "sha256": "9227fbb764205b925c67149b5069c06078259db44a70e245e5ad2c6b416a513e"
+    },
+    "src/model/sculpture.ts": {
+      "bytes": 21828,
+      "sha256": "9761d8f70af795d488690ebb61494ca81fa52e00622f4c41b27b4afdf1989faf"
+    },
+    "src/model/sources.ts": {
+      "bytes": 7060,
+      "sha256": "ead3f079eb157ca7227b11d3edf34ebed840ec78441bfb98b2f5a40eb35eed7a"
+    },
+    "src/model/study-scope.ts": {
+      "bytes": 8181,
+      "sha256": "a1d3c7f382e0d66fd58bd1928e9e88a940aa4d40526dba94acf3fc985724f10a"
+    },
+    "src/model/timber-colors.ts": {
+      "bytes": 2267,
+      "sha256": "311f5abb3fe5abe4855c675a7bf5f4158509ef4cbc9323c2e94f66ec5350a84a"
+    },
+    "src/model/timber-contour.ts": {
+      "bytes": 3793,
+      "sha256": "feaebdcca10e0e565c4a7a5d2834420a4821530e72eea7b12a38b1378105a6c8"
+    },
+    "src/model/timber-paint-coordinates.ts": {
+      "bytes": 3060,
+      "sha256": "348fa0cd581f64ea54dd9f8b2684ad1b47167bfa38b84a96c62e8edbaa39861d"
+    },
+    "src/model/timber.ts": {
+      "bytes": 9258,
+      "sha256": "056ac63f182b44689de296100b8c6b8556b9ed356c08c92938c507af3d6ff223"
+    },
+    "src/model/types.ts": {
+      "bytes": 4177,
+      "sha256": "a449ff62308f1d1e2523fd682748ae8426e60cfc5bbacc7c69f8ed4cadce021a"
+    },
+    "src/model/wall-joints.json": {
+      "bytes": 24755862,
+      "sha256": "53e2b502902c6297587261fa432dc448d2bc05ff45a54e4fc58482e6f18b2c24"
+    },
+    "src/product-features.ts": {
+      "bytes": 2143,
+      "sha256": "aabe5853ea66ed14877cc90034b03cf9be0350df936ae45dd40f6c4a676b1ac3"
+    },
+    "src/section/computation.ts": {
+      "bytes": 2120,
+      "sha256": "a33070a9ccd2c72f7514844afaef02617f052974ebec847a34bea2468aec90ca"
+    },
+    "src/section/geometry.ts": {
+      "bytes": 8772,
+      "sha256": "8bfe4dd1b847d864db2f93e95eea9447014dacdfe90c1d326a8ec0f0938142cd"
+    },
+    "src/section/panel.ts": {
+      "bytes": 5796,
+      "sha256": "41a16637a646f27963b3fe69c52e000da8f250bffd713378d4feec6787e34281"
+    },
+    "src/section/range-interaction.ts": {
+      "bytes": 1367,
+      "sha256": "5d977b33b32ad7bf231e08332cfb42b78932371c4034a010a4470e6513993fef"
+    },
+    "src/section/section-view.ts": {
+      "bytes": 10879,
+      "sha256": "2c6096705251a6e72332f4e29ec6271395ec012bb63a4662f5994e3ca6c8a23a"
+    },
+    "src/section/section.worker.ts": {
+      "bytes": 1070,
+      "sha256": "c3b2ad4d4ec23fb9565dd7b9db8dfcd08962261f04853541038f5625cb1015ea"
+    },
+    "src/section/worker-computer.ts": {
+      "bytes": 2735,
+      "sha256": "e304dbd60987b98694cee110a793ff7b5a8cd46567aaec170c19f6960b529613"
+    },
+    "src/state.ts": {
+      "bytes": 10970,
+      "sha256": "87f30b658abb89a2b7b6c1e549c76916a0fa5e876d9a3a86b1676373501c4e7d"
+    },
+    "src/study-locator.ts": {
+      "bytes": 2987,
+      "sha256": "2e062f6d0581a10e2a4aa497d5b745b201d9934d09d1184f763028ef176d050e"
+    },
+    "src/style.css": {
+      "bytes": 33678,
+      "sha256": "bce415288f0cdb423ea3c62cb14ec4739deee3a8ec8c8c9fefd09e30fb1faca6"
+    },
+    "src/surface-orbit.ts": {
+      "bytes": 6272,
+      "sha256": "3ebc3d3d428cacb2aadf66a18b07e46ff636d38130051ebf62de69ea79be5b5d"
+    },
+    "src/viewer.ts": {
+      "bytes": 36607,
+      "sha256": "e422466f421d34b9ca8a6e56c4aef83cb28ee28b53a4232ccb99989f63a4edbc"
+    },
+    "src/work-batches.ts": {
+      "bytes": 1451,
+      "sha256": "f3fc6eba7e18dd373d3bb80743b3b6aee3f8ccd1cf6d6542d0958a781f47d41a"
+    },
+    "tests/i18n.test.ts": {
+      "bytes": 2316,
+      "sha256": "53ef291cd173dd1687852e3ac2efb202dbfb3433b02c5dd71008e27cb57d4421"
+    },
+    "tests/loading-progress.test.ts": {
+      "bytes": 2497,
+      "sha256": "81d7ed3f7ed045a230540497df9574da1738270c540416fdfdd7d2b56f029dc3"
+    },
+    "tests/product-features.test.ts": {
+      "bytes": 3113,
+      "sha256": "9e5b741dcae899c657610676ba77b901a03fa5ff24b8713454fa2fe529bafca8"
+    },
+    "tests/rafter-alignment.test.ts": {
+      "bytes": 4136,
+      "sha256": "14e4f13bd811d147d653a7e9c89cf4c06a3ba7ed14fb8401379b8f26bcbb118b"
+    },
+    "tests/rafter-board-clearance.test.ts": {
+      "bytes": 4647,
+      "sha256": "03eae3954acc89a851a3cfc0105a24146b351421d18e570c2317f7b49c77abad"
+    },
+    "tests/roof-corners.test.ts": {
+      "bytes": 7425,
+      "sha256": "15b3c1d93abd80e1d438732c187ab1340c1bf08327d8a23c4ebeefde24f5883e"
+    },
+    "tests/roof-cover.test.ts": {
+      "bytes": 1469,
+      "sha256": "5319c0f0f97d766023534682aa201039ba58f2800996d65c4977f20c655153ad"
+    },
+    "tests/state.test.ts": {
+      "bytes": 4713,
+      "sha256": "4d8241ca140b2ca4c18b8a4681163cff70661c7307febf534785d6c468257e35"
+    },
+    "tests/timber-colors.test.ts": {
+      "bytes": 2005,
+      "sha256": "79b4190266fd289be3eac5b279cfc331ad32e3027c5d8ba0272e998220120579"
+    },
+    "tests/timber-contour.test.ts": {
+      "bytes": 2883,
+      "sha256": "c70ed3b453d35ef06fd28bbb34b76d4432ee2ff6c026e22ed0e627e381e729bc"
+    },
+    "tsconfig.json": {
+      "bytes": 436,
+      "sha256": "21f90293510a009e2e8304243cf8fe694bc8da0f645596a3a0a51298b7ced6c4"
+    },
+    "vite.config.ts": {
+      "bytes": 420,
+      "sha256": "bba79999c2686364f01d44610d42e0f28696a40acda5c55e485112f5a7540a68"
+    }
+  },
+  "repository": "duxiaodan/timber-atlas",
+  "schemaVersion": 2,
+  "version": "v0.1.0"
+}

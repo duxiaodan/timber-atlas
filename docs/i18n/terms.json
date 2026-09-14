@@ -1,0 +1,806 @@
+{
+  "台基": {
+    "en": "Building platform",
+    "pinyin": "taiji"
+  },
+  "台明": {
+    "en": "Platform coping",
+    "pinyin": "taiming"
+  },
+  "踏道": {
+    "en": "Steps",
+    "pinyin": "tadao"
+  },
+  "柱础": {
+    "en": "Column base",
+    "pinyin": "zhuchu"
+  },
+  "柱": {
+    "en": "Column",
+    "pinyin": "zhu"
+  },
+  "柱间阑额": {
+    "en": "Intercolumnar architrave",
+    "pinyin": "zhujian lan'e"
+  },
+  "栌斗": {
+    "en": "Column-head bearing block",
+    "pinyin": "ludou"
+  },
+  "柱头枋下散斗": {
+    "en": "Bracket-tip block beneath column-head tie beam",
+    "pinyin": "zhutou fang xia sandou"
+  },
+  "第2层柱头枋节点": {
+    "en": "Tier 2 column-head tie-beam node",
+    "pinyin": "di er ceng zhutou fang jiedian"
+  },
+  "第3层柱头枋节点": {
+    "en": "Tier 3 column-head tie-beam node",
+    "pinyin": "di san ceng zhutou fang jiedian"
+  },
+  "第4层柱头枋节点": {
+    "en": "Tier 4 column-head tie-beam node",
+    "pinyin": "di si ceng zhutou fang jiedian"
+  },
+  "山面第一跳华栱": {
+    "en": "End-elevation projecting arm, step 1",
+    "pinyin": "shanmian di yi tiao huagong"
+  },
+  "交互斗": {
+    "en": "Crossing bearing block",
+    "pinyin": "jiaohudou"
+  },
+  "山面第二跳华栱": {
+    "en": "End-elevation projecting arm, step 2",
+    "pinyin": "shanmian di er tiao huagong"
+  },
+  "瓜子栱": {
+    "en": "Short transverse bracket arm",
+    "pinyin": "guazigong"
+  },
+  "散斗": {
+    "en": "Bracket-tip bearing block",
+    "pinyin": "sandou"
+  },
+  "慢栱": {
+    "en": "Long transverse bracket arm",
+    "pinyin": "mangong"
+  },
+  "牛脊枋下垫木": {
+    "en": "Support block beneath ox-ridge tie beam",
+    "pinyin": "niuji fang xia dianmu"
+  },
+  "山面第一层下昂": {
+    "en": "End-elevation downward-pointing lever arm, tier 1",
+    "pinyin": "shanmian di yi ceng xia'ang"
+  },
+  "偷心跳头斗": {
+    "en": "Projection-tip block at an omitted cross-arm",
+    "pinyin": "touxin tiaotou dou"
+  },
+  "山面第二层下昂": {
+    "en": "End-elevation downward-pointing lever arm, tier 2",
+    "pinyin": "shanmian di er ceng xia'ang"
+  },
+  "昂头交互斗": {
+    "en": "Crossing block on lever-arm head",
+    "pinyin": "angtou jiaohudou"
+  },
+  "令栱": {
+    "en": "Upper transverse bracket arm",
+    "pinyin": "linggong"
+  },
+  "批竹耍头": {
+    "en": "Bamboo-cut projecting tip",
+    "pinyin": "pizhu shuatou"
+  },
+  "替木": {
+    "en": "Purlin support timber",
+    "pinyin": "timu"
+  },
+  "檐面第一跳华栱": {
+    "en": "Eaves-elevation projecting arm, step 1",
+    "pinyin": "yanmian di yi tiao huagong"
+  },
+  "檐面第二跳华栱": {
+    "en": "Eaves-elevation projecting arm, step 2",
+    "pinyin": "yanmian di er tiao huagong"
+  },
+  "檐面第一层下昂": {
+    "en": "Eaves-elevation downward-pointing lever arm, tier 1",
+    "pinyin": "yanmian di yi ceng xia'ang"
+  },
+  "檐面第二层下昂": {
+    "en": "Eaves-elevation downward-pointing lever arm, tier 2",
+    "pinyin": "yanmian di er ceng xia'ang"
+  },
+  "斜向角华栱": {
+    "en": "Diagonal corner projecting arm",
+    "pinyin": "xiexiang jiao huagong"
+  },
+  "第一层角下昂": {
+    "en": "Corner downward-pointing lever arm, tier 1",
+    "pinyin": "di yi ceng jiao xia'ang"
+  },
+  "第二层角下昂": {
+    "en": "Corner downward-pointing lever arm, tier 2",
+    "pinyin": "di er ceng jiao xia'ang"
+  },
+  "由昂": {
+    "en": "Corner terminal lever arm",
+    "pinyin": "you'ang"
+  },
+  "角梁下宝瓶": {
+    "en": "Vase-shaped hip-rafter support",
+    "pinyin": "jiaoliang xia baoping"
+  },
+  "角端平盘斗": {
+    "en": "Flat corner bearing block",
+    "pinyin": "jiaoduan pingpandou"
+  },
+  "角端交手令栱": {
+    "en": "Crossing upper bracket arm at corner",
+    "pinyin": "jiaoduan jiaoshou linggong"
+  },
+  "角端替木下斗": {
+    "en": "Corner block beneath purlin support",
+    "pinyin": "jiaoduan timu xia dou"
+  },
+  "压槽枋节点": {
+    "en": "Upper perimeter tie-beam node",
+    "pinyin": "yacao fang jiedian"
+  },
+  "泥道栱": {
+    "en": "Wall-aligned bracket arm",
+    "pinyin": "nidaogong"
+  },
+  "第1层柱头枋节点": {
+    "en": "Tier 1 column-head tie-beam node",
+    "pinyin": "di yi ceng zhutou fang jiedian"
+  },
+  "第一跳华栱": {
+    "en": "Projecting bracket arm, step 1",
+    "pinyin": "di yi tiao huagong"
+  },
+  "第一层下昂": {
+    "en": "Downward-pointing lever arm, tier 1",
+    "pinyin": "di yi ceng xia'ang"
+  },
+  "第二层下昂": {
+    "en": "Downward-pointing lever arm, tier 2",
+    "pinyin": "di er ceng xia'ang"
+  },
+  "第5层柱头枋节点": {
+    "en": "Tier 5 column-head tie-beam node",
+    "pinyin": "di wu ceng zhutou fang jiedian"
+  },
+  "内角第二正向栱": {
+    "en": "Inner-corner arm on second orthogonal axis",
+    "pinyin": "neijiao di er zhengxiang gong"
+  },
+  "内角斜华栱": {
+    "en": "Inner-corner diagonal projecting arm",
+    "pinyin": "neijiao xie huagong"
+  },
+  "内角叠斗": {
+    "en": "Stacked inner-corner bearing block",
+    "pinyin": "neijiao diedou"
+  },
+  "第1跳华栱（偷心）": {
+    "en": "Projecting arm, step 1, cross-arm omitted",
+    "pinyin": "di yi tiao huagong (touxin)"
+  },
+  "山面六分头": {
+    "en": "End-elevation six-fen projecting head",
+    "pinyin": "shanmian liufentou"
+  },
+  "山面叠斗": {
+    "en": "Stacked end-elevation bearing block",
+    "pinyin": "shanmian diedou"
+  },
+  "山面批竹头": {
+    "en": "End-elevation bamboo-cut head",
+    "pinyin": "shanmian pizhutou"
+  },
+  "山面第六层小翼形栱": {
+    "en": "Small wing-shaped end-elevation arm, tier 6",
+    "pinyin": "shanmian di liu ceng xiao yixing gong"
+  },
+  "山面第六层翼形头": {
+    "en": "Wing-shaped end-elevation head, tier 6",
+    "pinyin": "shanmian di liu ceng yixing tou"
+  },
+  "山面上层交互斗": {
+    "en": "Upper end-elevation crossing block",
+    "pinyin": "shanmian shangceng jiaohudou"
+  },
+  "山面第七层华栱": {
+    "en": "End-elevation projecting arm, tier 7",
+    "pinyin": "shanmian di qi ceng huagong"
+  },
+  "山面第七层令栱": {
+    "en": "End-elevation upper transverse arm, tier 7",
+    "pinyin": "shanmian di qi ceng linggong"
+  },
+  "山面横向平棊枋段": {
+    "en": "Transverse ceiling-frame tie at end elevation",
+    "pinyin": "shanmian hengxiang pingqi fang duan"
+  },
+  "山面纵向平棊枋段": {
+    "en": "Longitudinal ceiling-frame tie at end elevation",
+    "pinyin": "shanmian zongxiang pingqi fang duan"
+  },
+  "山面令栱上散斗": {
+    "en": "Bracket-tip block on end-elevation upper arm",
+    "pinyin": "shanmian linggong shang sandou"
+  },
+  "山面新跳头平棊斗": {
+    "en": "Ceiling bearing block at end-elevation projection",
+    "pinyin": "shanmian xin tiaotou pingqi dou"
+  },
+  "第4跳华栱（偷心）": {
+    "en": "Projecting arm, step 4, cross-arm omitted",
+    "pinyin": "di si tiao huagong (touxin)"
+  },
+  "第1层柱头枋": {
+    "en": "Tier 1 column-head tie beam",
+    "pinyin": "di yi ceng zhutou fang"
+  },
+  "第2层柱头枋": {
+    "en": "Tier 2 column-head tie beam",
+    "pinyin": "di er ceng zhutou fang"
+  },
+  "第3层柱头枋": {
+    "en": "Tier 3 column-head tie beam",
+    "pinyin": "di san ceng zhutou fang"
+  },
+  "第4层柱头枋": {
+    "en": "Tier 4 column-head tie beam",
+    "pinyin": "di si ceng zhutou fang"
+  },
+  "压槽枋": {
+    "en": "Upper perimeter tie beam",
+    "pinyin": "yacao fang"
+  },
+  "补间第一跳华栱": {
+    "en": "Intercolumnar projecting arm, step 1",
+    "pinyin": "bujian di yi tiao huagong"
+  },
+  "翼形栱": {
+    "en": "Wing-shaped bracket arm",
+    "pinyin": "yixing gong"
+  },
+  "补间第二跳华栱": {
+    "en": "Intercolumnar projecting arm, step 2",
+    "pinyin": "bujian di er tiao huagong"
+  },
+  "补间令栱": {
+    "en": "Intercolumnar upper transverse arm",
+    "pinyin": "bujian linggong"
+  },
+  "补间承罗汉枋短木": {
+    "en": "Intercolumnar luohan tie-beam support",
+    "pinyin": "bujian cheng luohan fang duanmu"
+  },
+  "后尾第一跳斗": {
+    "en": "Rear bearing block, step 1",
+    "pinyin": "houwei di yi tiao dou"
+  },
+  "后尾第二跳斗": {
+    "en": "Rear bearing block, step 2",
+    "pinyin": "houwei di er tiao dou"
+  },
+  "后尾令栱": {
+    "en": "Rear upper transverse bracket arm",
+    "pinyin": "houwei linggong"
+  },
+  "后尾平棊枋下斗": {
+    "en": "Rear block beneath ceiling-frame tie beam",
+    "pinyin": "houwei pingqi fang xia dou"
+  },
+  "第5层柱头枋": {
+    "en": "Tier 5 column-head tie beam",
+    "pinyin": "di wu ceng zhutou fang"
+  },
+  "补间第1跳华栱": {
+    "en": "Intercolumnar projecting arm, step 1",
+    "pinyin": "bujian di yi tiao huagong"
+  },
+  "补间第2跳华栱": {
+    "en": "Intercolumnar projecting arm, step 2",
+    "pinyin": "bujian di er tiao huagong"
+  },
+  "补间第3跳华栱": {
+    "en": "Intercolumnar projecting arm, step 3",
+    "pinyin": "bujian di san tiao huagong"
+  },
+  "后尾丁头短栱": {
+    "en": "Rear short bracket arm with stub tenon",
+    "pinyin": "houwei dingtou duangong"
+  },
+  "内补间最高令栱": {
+    "en": "Topmost transverse arm of inner intercolumnar set",
+    "pinyin": "nei bujian zuigao linggong"
+  },
+  "高平棊枋下斗": {
+    "en": "Bearing block beneath upper ceiling-frame tie",
+    "pinyin": "gao pingqi fang xia dou"
+  },
+  "四椽明栿": {
+    "en": "Exposed four-rafter beam",
+    "pinyin": "si chuan mingfu"
+  },
+  "驼峰": {
+    "en": "Hump-shaped beam support",
+    "pinyin": "tuofeng"
+  },
+  "大斗": {
+    "en": "Large bearing block",
+    "pinyin": "dadou"
+  },
+  "十字栱": {
+    "en": "Cruciform bracket arm",
+    "pinyin": "shizi gong"
+  },
+  "栱头散斗": {
+    "en": "Bracket-tip bearing block",
+    "pinyin": "gongtou sandou"
+  },
+  "平棊枋": {
+    "en": "Ceiling-frame tie beam",
+    "pinyin": "pingqi fang"
+  },
+  "四椽草栿": {
+    "en": "Concealed four-rafter beam",
+    "pinyin": "si chuan caofu"
+  },
+  "中平槫下短木": {
+    "en": "Short support beneath intermediate purlin",
+    "pinyin": "zhongping tuan xia duanmu"
+  },
+  "敦㮇": {
+    "en": "Stout support block",
+    "pinyin": "duntian"
+  },
+  "斗": {
+    "en": "Bearing block",
+    "pinyin": "dou"
+  },
+  "托脚": {
+    "en": "Purlin brace",
+    "pinyin": "tuojiao"
+  },
+  "平梁": {
+    "en": "Upper crossbeam",
+    "pinyin": "pingliang"
+  },
+  "平梁端令栱": {
+    "en": "Upper transverse arm at crossbeam end",
+    "pinyin": "pingliang duan linggong"
+  },
+  "上平槫替木": {
+    "en": "Upper-purlin support timber",
+    "pinyin": "shangping tuan timu"
+  },
+  "大叉手": {
+    "en": "Large ridge strut",
+    "pinyin": "da chashou"
+  },
+  "脊部令栱": {
+    "en": "Transverse bracket arm beneath ridge",
+    "pinyin": "jibu linggong"
+  },
+  "脊槫替木": {
+    "en": "Ridge-purlin support timber",
+    "pinyin": "ji tuan timu"
+  },
+  "角乳栿连角华栱": {
+    "en": "Corner short beam with integral projecting arm",
+    "pinyin": "jiao rufu lian jiao huagong"
+  },
+  "草角乳栿": {
+    "en": "Concealed corner short beam",
+    "pinyin": "cao jiao rufu"
+  },
+  "连续缴背": {
+    "en": "Continuous beam-top reinforcing timber",
+    "pinyin": "lianxu jiaobei"
+  },
+  "方木敦㮇": {
+    "en": "Square support block",
+    "pinyin": "fangmu duntian"
+  },
+  "方垫木": {
+    "en": "Square packing block",
+    "pinyin": "fang dianmu"
+  },
+  "半驼峰": {
+    "en": "Half-hump beam support",
+    "pinyin": "ban tuofeng"
+  },
+  "平闇下令栱": {
+    "en": "Upper transverse arm beneath latticed ceiling",
+    "pinyin": "ping'an xia linggong"
+  },
+  "栱头斗": {
+    "en": "Bracket-tip bearing block",
+    "pinyin": "gongtou dou"
+  },
+  "内角第三材层翼形连半驼峰": {
+    "en": "Inner-corner tier 3 wing arm with integral half-hump",
+    "pinyin": "neijiao di san cai ceng yixing lian ban tuofeng"
+  },
+  "内角第四材层华栱连素枋": {
+    "en": "Inner-corner tier 4 projecting arm with integral plain tie",
+    "pinyin": "neijiao di si cai ceng huagong lian sufang"
+  },
+  "低平闇径向平棊枋": {
+    "en": "Radial tie of lower latticed-ceiling frame",
+    "pinyin": "di ping'an jingxiang pingqi fang"
+  },
+  "明乳栿连第二跳华栱": {
+    "en": "Exposed short beam with integral step 2 arm",
+    "pinyin": "ming rufu lian di er tiao huagong"
+  },
+  "草乳栿": {
+    "en": "Concealed short beam",
+    "pinyin": "cao rufu"
+  },
+  "第三层径向材连半驼峰": {
+    "en": "Tier 3 radial timber with integral half-hump",
+    "pinyin": "di san ceng jingxiang cai lian ban tuofeng"
+  },
+  "第3层柱头枋连素枋": {
+    "en": "Tier 3 column-head tie with integral plain tie",
+    "pinyin": "di san ceng zhutou fang lian sufang"
+  },
+  "第三跳华栱连半驼峰": {
+    "en": "Step 3 projecting arm with integral half-hump",
+    "pinyin": "di san tiao huagong lian ban tuofeng"
+  },
+  "隐栱形素枋": {
+    "en": "Plain tie beam with integral bracket profile",
+    "pinyin": "yingong xing sufang"
+  },
+  "首跳后尾承乳栿斗": {
+    "en": "Rear step 1 block supporting short beam",
+    "pinyin": "shoutiao houwei cheng rufu dou"
+  },
+  "内角第五材层翼形连身": {
+    "en": "Inner-corner tier 5 timber with integral wing head",
+    "pinyin": "neijiao di wu cai ceng yixing lianshen"
+  },
+  "内角第六材层六分连身": {
+    "en": "Inner-corner tier 6 timber with integral six-fen head",
+    "pinyin": "neijiao di liu cai ceng liufen lianshen"
+  },
+  "内角第六材层横翼栱": {
+    "en": "Inner-corner tier 6 transverse wing arm",
+    "pinyin": "neijiao di liu cai ceng hengyi gong"
+  },
+  "内角第七材层正向翼形栱": {
+    "en": "Inner-corner tier 7 primary-axis wing arm",
+    "pinyin": "neijiao di qi cai ceng zhengxiang yixing gong"
+  },
+  "内角第七材层侧向翼形栱": {
+    "en": "Inner-corner tier 7 secondary-axis wing arm",
+    "pinyin": "neijiao di qi cai ceng cexiang yixing gong"
+  },
+  "内角第七材层角向华栱连身": {
+    "en": "Inner-corner tier 7 timber with integral diagonal arm",
+    "pinyin": "neijiao di qi cai ceng jiaoxiang huagong lianshen"
+  },
+  "叠方木": {
+    "en": "Stacked square timber block",
+    "pinyin": "die fangmu"
+  },
+  "承槫短木": {
+    "en": "Short purlin support",
+    "pinyin": "cheng tuan duanmu"
+  },
+  "叠枋木": {
+    "en": "Stacked rectangular timber block",
+    "pinyin": "die fangmu"
+  },
+  "丁栿": {
+    "en": "End-frame cross beam",
+    "pinyin": "dingfu"
+  },
+  "山面上平槫托脚": {
+    "en": "Upper-purlin brace at end elevation",
+    "pinyin": "shanmian shangping tuan tuojiao"
+  },
+  "方木": {
+    "en": "Square timber block",
+    "pinyin": "fangmu"
+  },
+  "太平梁": {
+    "en": "Ridge-end support beam",
+    "pinyin": "taiping liang"
+  },
+  "山面脊端斜撑": {
+    "en": "Diagonal ridge-end brace",
+    "pinyin": "shanmian jiduan xiecheng"
+  },
+  "脊端承槫短木": {
+    "en": "Short ridge-end purlin support",
+    "pinyin": "jiduan cheng tuan duanmu"
+  },
+  "脊槫": {
+    "en": "Ridge purlin",
+    "pinyin": "ji tuan"
+  },
+  "上平槫": {
+    "en": "Upper purlin",
+    "pinyin": "shangping tuan"
+  },
+  "中平槫": {
+    "en": "Intermediate purlin",
+    "pinyin": "zhongping tuan"
+  },
+  "下平槫": {
+    "en": "Lower purlin",
+    "pinyin": "xiaping tuan"
+  },
+  "牛脊枋": {
+    "en": "Ox-ridge tie beam",
+    "pinyin": "niuji fang"
+  },
+  "撩檐槫": {
+    "en": "Eaves purlin",
+    "pinyin": "liaoyan tuan"
+  },
+  "罗汉枋": {
+    "en": "Luohan tie beam",
+    "pinyin": "luohan fang"
+  },
+  "山面罗汉枋": {
+    "en": "End-elevation luohan tie beam",
+    "pinyin": "shanmian luohan fang"
+  },
+  "檐椽": {
+    "en": "Eaves rafter",
+    "pinyin": "yanchuan"
+  },
+  "圆椽": {
+    "en": "Round rafter",
+    "pinyin": "yuan chuan"
+  },
+  "望板": {
+    "en": "Roof sheathing board",
+    "pinyin": "wangban"
+  },
+  "板瓦": {
+    "en": "Pan tile",
+    "pinyin": "banwa"
+  },
+  "筒瓦": {
+    "en": "Cover tile",
+    "pinyin": "tongwa"
+  },
+  "大角梁": {
+    "en": "Main hip rafter",
+    "pinyin": "da jiaoliang"
+  },
+  "子角梁": {
+    "en": "Upper hip rafter",
+    "pinyin": "zi jiaoliang"
+  },
+  "正脊叠瓦": {
+    "en": "Stacked main-ridge tile",
+    "pinyin": "zhengji diewa"
+  },
+  "脊筒瓦": {
+    "en": "Ridge cover tile",
+    "pinyin": "ji tongwa"
+  },
+  "垂脊下铺垫": {
+    "en": "Hip-ridge bedding",
+    "pinyin": "chuiji xia pudian"
+  },
+  "垂脊叠瓦": {
+    "en": "Stacked hip-ridge tile",
+    "pinyin": "chuiji diewa"
+  },
+  "鸱吻": {
+    "en": "Chiwen ridge ornament",
+    "pinyin": "chiwen"
+  },
+  "火珠": {
+    "en": "Flaming-pearl finial",
+    "pinyin": "huozhu"
+  },
+  "内槽高边界平棊枋": {
+    "en": "Upper ceiling-frame boundary tie of inner ring",
+    "pinyin": "neicao gao bianjie pingqi fang"
+  },
+  "跨梁缝中线平棊枋": {
+    "en": "Ceiling-frame centerline tie between beam frames",
+    "pinyin": "kua liangfeng zhongxian pingqi fang"
+  },
+  "内角高平棊枋下斗": {
+    "en": "Inner-corner block beneath upper ceiling-frame tie",
+    "pinyin": "neijiao gao pingqi fang xia dou"
+  },
+  "平闇方椽": {
+    "en": "Square-section ceiling batten",
+    "pinyin": "ping'an fangchuan"
+  },
+  "平闇横格木": {
+    "en": "Transverse ceiling-grid batten",
+    "pinyin": "ping'an heng gemu"
+  },
+  "平闇板": {
+    "en": "Latticed-ceiling board",
+    "pinyin": "ping'an ban"
+  },
+  "峻脚椽": {
+    "en": "Sloping ceiling-edge batten",
+    "pinyin": "junjiao chuan"
+  },
+  "平棊边枋端段": {
+    "en": "Ceiling-frame edge-tie end segment",
+    "pinyin": "pingqi bianfang duanduan"
+  },
+  "栱眼壁": {
+    "en": "Bracket-bay infill wall",
+    "pinyin": "gongyan bi"
+  },
+  "墙体": {
+    "en": "Wall",
+    "pinyin": "qiangti"
+  },
+  "地栿": {
+    "en": "Ground sill",
+    "pinyin": "difu"
+  },
+  "门槛面板": {
+    "en": "Threshold face board",
+    "pinyin": "menkan mianban"
+  },
+  "门槛侧板": {
+    "en": "Threshold side board",
+    "pinyin": "menkan ceban"
+  },
+  "门颊面板": {
+    "en": "Door-jamb face board",
+    "pinyin": "menjia mianban"
+  },
+  "门颊侧板": {
+    "en": "Door-jamb side board",
+    "pinyin": "menjia ceban"
+  },
+  "门额面板": {
+    "en": "Door-head face board",
+    "pinyin": "men'e mianban"
+  },
+  "门额侧板": {
+    "en": "Door-head side board",
+    "pinyin": "men'e ceban"
+  },
+  "鸡栖木": {
+    "en": "Upper door-pivot rail",
+    "pinyin": "jiqimu"
+  },
+  "门簪": {
+    "en": "Projecting door-head pin",
+    "pinyin": "menzan"
+  },
+  "门扇木板": {
+    "en": "Door-leaf plank",
+    "pinyin": "menshan muban"
+  },
+  "门楅": {
+    "en": "Door-leaf batten",
+    "pinyin": "menbi"
+  },
+  "窗下串": {
+    "en": "Lower window rail",
+    "pinyin": "chuang xiachuan"
+  },
+  "窗额": {
+    "en": "Window head",
+    "pinyin": "chuang'e"
+  },
+  "窗立颊": {
+    "en": "Window jamb",
+    "pinyin": "chuang lijia"
+  },
+  "直棂": {
+    "en": "Vertical window bar",
+    "pinyin": "zhileng"
+  },
+  "承棂串": {
+    "en": "Window-bar support rail",
+    "pinyin": "chengling chuan"
+  },
+  "高窗横串": {
+    "en": "High-window cross rail",
+    "pinyin": "gaochuang hengchuan"
+  },
+  "高窗直棂": {
+    "en": "High-window vertical bar",
+    "pinyin": "gaochuang zhileng"
+  },
+  "佛坛": {
+    "en": "Buddhist altar platform",
+    "pinyin": "fotan"
+  },
+  "扇面墙": {
+    "en": "Altar screen wall",
+    "pinyin": "shanmian qiang"
+  },
+  "屏墙": {
+    "en": "Screen wall",
+    "pinyin": "pingqiang"
+  },
+  "文殊菩萨骑狮": {
+    "en": "Manjushri on a lion",
+    "pinyin": "Wenshu Pusa qi shi"
+  },
+  "阿弥陀佛": {
+    "en": "Amitabha Buddha",
+    "pinyin": "Amituo Fo"
+  },
+  "释迦牟尼佛": {
+    "en": "Shakyamuni Buddha",
+    "pinyin": "Shijiamouni Fo"
+  },
+  "弥勒佛（垂足坐）": {
+    "en": "Maitreya Buddha, seated with legs pendant",
+    "pinyin": "Mile Fo (chuizu zuo)"
+  },
+  "普贤菩萨骑象": {
+    "en": "Samantabhadra on an elephant",
+    "pinyin": "Puxian Pusa qi xiang"
+  },
+  "塑像": {
+    "en": "Sculpture",
+    "pinyin": "suxiang"
+  },
+  "天王": {
+    "en": "Heavenly King",
+    "pinyin": "Tianwang"
+  },
+  "斗耳泥": {
+    "en": "Earthen infill at bearing-block ears",
+    "pinyin": "dou'er ni"
+  },
+  "外檐栱眼壁": {
+    "en": "Exterior bracket-bay infill wall",
+    "pinyin": "waiyan gongyan bi"
+  },
+  "匾额挂接": {
+    "en": "Plaque mounting",
+    "pinyin": "bian'e guajie"
+  },
+  "匾额": {
+    "en": "Plaque",
+    "pinyin": "bian'e"
+  },
+  "戗脊叠瓦": {
+    "en": "Lower hip-ridge tile course",
+    "pinyin": "qiàng jǐ dié wǎ"
+  },
+  "垂脊端兽头": {
+    "en": "Hip-ridge terminal beast head",
+    "pinyin": "chuí jǐ duān shòu tóu"
+  },
+  "檐角龙首套饰": {
+    "en": "Glazed eaves-corner dragon cap",
+    "pinyin": "yán jiǎo lóng shǒu tào shì"
+  },
+  "峻脚遮椽板": {
+    "en": "Cove rafter covering board",
+    "pinyin": "jùnjiǎo zhēchuánbǎn"
+  },
+  "单槽承斗": {
+    "en": "Single-channel bearing block",
+    "pinyin": "dancao chengdou"
+  },
+  "共用单槽承斗": {
+    "en": "Shared single-channel bearing block",
+    "pinyin": "gongyong dancao chengdou"
+  }
+}
